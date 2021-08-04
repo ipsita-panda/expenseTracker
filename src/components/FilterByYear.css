@@ -1,0 +1,11 @@
+.dropdown {
+  border-radius: 7px;
+  font-size: 30px;
+  width: 100px;
+}
+
+.dropdown-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

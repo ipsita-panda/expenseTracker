@@ -1,0 +1,19 @@
+.calender {
+  background-color: #171010;
+  box-shadow: rgba(243, 240, 240, 0.35) 0px 5px 15px;
+  border: 1px solid white;
+  border-radius: 30px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  color: white;
+  /* margin-left: 30px; */
+}
+h3,
+h2,
+h4 {
+  margin: 0;
+}
+/* h2{
+  margin:0;
+} */

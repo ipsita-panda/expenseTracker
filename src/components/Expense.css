@@ -1,0 +1,31 @@
+.expense {
+  color: white;
+  margin: 30px 30px;
+}
+body {
+  background-color: #2c2e43;
+}
+.expenseList {
+  background-color: #2c2e43;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+  align-items: center;
+  height: 10vh;
+}
+
+.expense-container {
+  background-color: #171010;
+  margin: 160px;
+  padding: 30px 50px 50px 30px;
+  color: white;
+}
+.price {
+  background-color: #9400d3;
+  border-radius: 20px;
+  border: solid 1px white;
+  width: 90px;
+  text-align: center;
+}
